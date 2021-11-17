@@ -1,0 +1,5 @@
+Quiz Features:
+
+1. Countdown Timer
+
+2. Hint Button
