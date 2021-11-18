@@ -4,7 +4,7 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/index.html",
-    "name": "Name that Capital City Quiz!",
+    "name": "Capital City Quiz",
     "short_name": "CC Quiz",
     "description": "A 10-question quiz about the different capital cities in the world",
     "icons": [
