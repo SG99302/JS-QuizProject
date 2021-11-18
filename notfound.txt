@@ -1,1 +1,2 @@
-File not found.
+The resource you have requested is unavailable.
+Please check your internet connection.
