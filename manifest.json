@@ -7,6 +7,14 @@
     "name": "Capital City Quiz",
     "short_name": "CC Quiz",
     "description": "A 10-question quiz about the different capital cities in the world",
+    "theme_color": "#0075ff",
+    "prefer_related_applications": false,
+    "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.google.samples.apps.iosched"
+    }
+   ],
     "icons": [
         {
             "src": "icons/icon-192x192.png",
