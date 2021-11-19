@@ -106,6 +106,10 @@ let questions = [
    },
  ];
  
+// loads Service Worker
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js');
+}
  
  function loadQuestion() {
      
@@ -320,11 +324,6 @@ function showHint() {
   }
 }, 1000);
 
- 
- 
- 
- 
- 
  
  
  
